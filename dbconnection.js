@@ -4,11 +4,13 @@ const initOptions = {
 };
 const pgp = require('pg-promise')(initOptions);
 const cn = {
-    host: 'ec2-54-235-65-224.compute-1.amazonaws.com',
+    host: 'ec2-54-83-19-82.compute-1.amazonaws.com
+',
     port: 5432,
-    database: 'd1rv4r6kj9ev6q',
-    user: 'xeggfykrztskpo',
-    password: '8d9d1c9300debb7cb62932ae35923cd56de47fd25a2f941ef81d669b3c827838'
+    database: 'd9efj0lcoahrju',
+    user: 'iwzqtxfysglrbl',
+    password: '97432d26d1dcab1c15ab5f1b45f02abbe9e3fe7e24c97b8b3df261da601ebe3a
+'
 };
 
 // const localdbConnection = {
